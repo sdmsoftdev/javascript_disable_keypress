@@ -1,0 +1,2 @@
+ <asp:TextBox ID="txtDeliveryDate" runat="server"  onKeypress="if ((event.keyCode > 47 && event.keyCode < 105)) event.returnValue = false;">
+ </asp:TextBox>
